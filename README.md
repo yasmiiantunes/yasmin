@@ -8,5 +8,7 @@
 - Atendo por pronomes femininos (ela/dela). 
 
   <div>
-    <a href = 
+    <a href = "https://github.com/yasmiiantunes"> 
+      <img height= "180cm" src= "https://github-readme-stats.vercel.app/api?username=yasmiiantunes&show_icons=true&theme=dark&include_all_commits=true&count_private=true/">
+      <img height= "180cm" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=yasmiiantunes&layout-compact&langs_count=16&theme=dark"/>
   </div>
